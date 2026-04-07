@@ -1,12 +1,9 @@
-# osmos-assignment
-This repository has been created for Osmos QA Lead Assignment purpose.
-
-# QA Automation Framework - Playwright, Java & TestNG
+# Lead Management SaaS - Test Automation Framework
 
 ## Overview
-This repository contains the automated UI tests for the Lead Manager SaaS application. It fulfills the assignment requirement to automate the following primary business flow: `Login -> Create Lead -> List Lead`.
+This repository contains a robust, automated UI testing framework designed for a modern Lead Management SaaS application. It serves as an architectural proof-of-concept to automate the primary business flow: `Login -> Create Lead -> List Lead`.
 
-The framework is built to be robust and handles complex modern web application elements, including custom React/Radix UI dropdowns, state-based toggles, and strict HTML5 date inputs via JavaScript evaluation.
+The framework is built to handle complex modern web application elements, including custom React/Radix UI dropdowns, state-based toggles, and strict HTML5 date inputs via JavaScript evaluation.
 
 ## Tools and Frameworks Used
 * **Programming Language:** Java 11+
